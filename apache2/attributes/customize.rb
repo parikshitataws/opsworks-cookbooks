@@ -1,2 +1,2 @@
-normal[:apache][:keepalive] = 'On'
-normal[:apache][:keepaliverequests] = 60
+default[:apache][:keepalive] = 'On'
+default[:apache][:keepaliverequests] = 70
